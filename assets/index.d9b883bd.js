@@ -58,6 +58,10 @@ Error generating stack: `+i.message+`
     font-family: "AlfaSlab";
     font-weight: bold;
     transition: 0.5s;
+
+    @media (max-width: 940px) {
+        font-size: 2rem;
+    }
 `,B0=qn.button`
     background: #670d2e;
     color: white;
