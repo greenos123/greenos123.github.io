@@ -58,6 +58,7 @@ Error generating stack: `+i.message+`
     font-family: "AlfaSlab";
     font-weight: bold;
     transition: 0.5s;
+    text-shadow: 2px 2px 2px black;
 
     @media (max-width: 940px) {
         font-size: 2rem;
